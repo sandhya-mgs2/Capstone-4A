@@ -39,6 +39,16 @@ By identifying **high-demand, low-supply regions**, we aim to support:
 
 ---
 
+## 📂 Notebooks
+
+Explore our data analysis and modeling work in the following notebooks:
+
+- 📊 [EDA: Google Trends (US Monthly)](notebooks/eda_linear_regression_trends.ipynb)
+- 📊 [EDA: Combined Depression & Anxiety](notebooks/eda_linear_regression_combined.ipynb)
+- 🤖 [XGBoost: Anxiety Model](notebooks/xgboost_model_anxiety.ipynb)
+- 🤖 [XGBoost: Depression Model](notebooks/xgboost_model_depression.ipynb)
+- 🔍 [XGBoost: SHAP Interpretation](notebooks/xgboost_combined_shap.ipynb)
+
 ## 🧪 Methodology
 
 ### 📊 Exploratory Data Analysis (EDA)  
