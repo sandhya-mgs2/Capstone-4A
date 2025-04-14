@@ -1,0 +1,18 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~ 
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# System files
+.DS_Store
+
+# Streamlit or Dash config
+.streamlit/
