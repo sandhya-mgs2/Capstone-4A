@@ -74,9 +74,9 @@ By identifying **high-demand, low-supply regions**, we aim to support:
 ## 👥 Team Members
 
 - Qibin Huang  
-- Erica Zhao  
 - Jianjun Gao  
 - Sandhya
+- Erica Zhao
 
 ---
 
