@@ -38,6 +38,19 @@ By identifying **high-demand, low-supply regions**, we aim to support:
 - [HRSA Website](https://data.hrsa.gov/)
 
 ---
+# 📁 Data Description
+
+## us_trends_monthly_cleaned.csv
+- Source: Google Trends
+- Content: Monthly search volume for mental health–related terms
+- Timeframe: 2019–2024
+- Scope: U.S. state-level
+
+## combined_depression_anxiety.csv
+- Source: AHRF + survey data
+- Content: Merged depression and anxiety indicators
+
+---
 
 ## 📂 Notebooks
 
