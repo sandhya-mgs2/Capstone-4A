@@ -98,7 +98,7 @@ Explore our data analysis and modeling work in the following notebooks:
 
 - Qibin Huang  
 - Jianjun Gao  
-- Sandhya
+- Sandhya Karki
 - Erica Zhao
 
 ---
