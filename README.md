@@ -112,5 +112,6 @@ pip install -r requirements.txt
 # Step 2: Run notebooks
 jupyter notebook
 
-# Step 3: Launch dashboard
-streamlit run xxxx.py
+# Step 3: Launch dashboard (Dash App)
+cd App
+python combined_app.py
