@@ -1,4 +1,21 @@
 # Capstone-4A
+# 🧠 Mental Health Demand & Supply Dashboard
+
+🌐 **[🔗 View Live Dashboard](https://mental-health-dashboard-iw4i.onrender.com)**  
+📊 Visualizing mismatches in mental health demand and provider supply across U.S. states using Google Trends and AHRF data. Built with Dash + Plotly.
+
+---
+
+⚠️ **Access Note:**  
+If you see a **"Not Private"** warning or **blocked page** on your campus network (e.g., GWU), this is due to security systems flagging newly created domains.  
+Please either:
+
+- ✅ Open the link using a **personal network / mobile hotspot / VPN**
+- ✅ Or click "visit this website anyway" if prompted by your browser
+
+This Render-hosted dashboard is completely safe and part of an academic project.
+
+---
 # 🧠 Mental Health Demand and Supply Analysis
 
 ## 📌 Problem Statement
